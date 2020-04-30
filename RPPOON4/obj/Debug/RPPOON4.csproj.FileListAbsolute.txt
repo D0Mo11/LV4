@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\RPPOON4\bin\Debug\RPPOON4.exe.config
+C:\Users\Korisnik\source\repos\RPPOON4\bin\Debug\RPPOON4.exe
+C:\Users\Korisnik\source\repos\RPPOON4\bin\Debug\RPPOON4.pdb
+C:\Users\Korisnik\source\repos\RPPOON4\obj\Debug\RPPOON4.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\RPPOON4\obj\Debug\RPPOON4.exe
+C:\Users\Korisnik\source\repos\RPPOON4\obj\Debug\RPPOON4.pdb
+C:\Users\Korisnik\source\repos\RPPOON4\obj\Debug\RPPOON4.csprojAssemblyReference.cache
